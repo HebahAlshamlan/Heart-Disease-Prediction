@@ -13,3 +13,6 @@ to get the best theta parameters for	the	given	lambda	value<br />
 6\ train logistic recreation Model:
 applies	10-fold	cross	validation	to	choose	the	best	lambda	value<br />
 7\  predict the Class.<br />
+
+#  Test Performance
+calculates accuracy,	recall,	precision,	and	f-score.
